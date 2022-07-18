@@ -1,0 +1,22 @@
+{
+    "portfolio": {
+        "MIRIADI": {
+            "id": "port1",
+            "nom": "MIRIADI",
+            "typeProjet" : "Professionel - stage",
+            "technologieUtilisee" : "Drupal",
+            "details" : "Développement d'une base de fiches d'activitées pour la plate-forme de formation MIRIADI",
+            "screenPreview": "/images/port1.jpg",
+            "screenFull": "/images/port1Full.jpg"
+        },
+        "MIRIADI2": {
+            "id": "port2",
+            "nom": "projet2",
+            "typeProjet" : "Professionel",
+            "technologieUtilisee" : "Wordpress",
+            "details" : "Lorem ipsum",
+            "screenPreview": "/images/port2.jpg",
+            "screenFull": "/images/port2Full.jpg"
+        }
+    }
+}
