@@ -15,6 +15,6 @@ app.get('/', function (req, res) {
   app.get('/CV', async (req, res) => {
     res.sendFile(path.join(publicDirectorypath + '/autres/CV_Donatien_BRIAN.pdf'));
   });
-app.listen(3000, () => {
+app.listen(80, () => {
   console.log("server running on port 3000");
 })
